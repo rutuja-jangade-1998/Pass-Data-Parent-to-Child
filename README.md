@@ -1,27 +1,9 @@
 # Passdataparenttochild
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
+![screencapture-localhost-4200-2021-04-04-14_09_51](https://user-images.githubusercontent.com/81439037/113503937-a9967980-9552-11eb-961d-da60a76366ea.png)
+![screencapture-localhost-4200-2021-04-04-14_09_42](https://user-images.githubusercontent.com/81439037/113503939-ab603d00-9552-11eb-8faf-1bfbdb86ce79.png)
+![screencapture-localhost-4200-2021-04-04-14_09_32](https://user-images.githubusercontent.com/81439037/113503940-abf8d380-9552-11eb-8815-602a97accac8.png)
+![screencapture-localhost-4200-2021-04-04-14_09_13](https://user-images.githubusercontent.com/81439037/113503944-ac916a00-9552-11eb-857b-72aadbe0dfa0.png)
+![screencapture-localhost-4200-2021-04-04-14_09_03](https://user-images.githubusercontent.com/81439037/113503946-ae5b2d80-9552-11eb-92d0-124a959361b7.png)
+![screencapture-localhost-4200-2021-04-04-14_08_50](https://user-images.githubusercontent.com/81439037/113503947-aef3c400-9552-11eb-9158-8d7a84c029da.png)
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
